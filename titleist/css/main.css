@@ -59,13 +59,15 @@ footer {
 /*nav style*/
 nav {
   z-index: 110;
-  position: fixed;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
 }
 .logo {
-  position: fixed;
-  top: 20px;
-  left: 30px;
   width: 160px;
+  display: block;
+  margin-left: 30px;
+  background-color: transparent;
 }
 .logo img {
   width: 100%;
@@ -73,34 +75,19 @@ nav {
 
 /*topmenu*/
 .topmenu {
-  width: 32%;
-  height: 80px;
-  position: fixed;
-  top: 2.5%;
-  float: right;
-  right: -355px;
-}
-.topmenu.on {
-  right: 40px;
+  width: 19%;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
 }
 
 .topmenu li {
-  float: left;
-  margin-left: 21px;
-  position: relative;
-}
-.topmenu li.on {
-  margin-left: 40px;
+  display: flex;
+  margin-right: 21px;
 }
 
-.topmenu li:nth-child(4) {
-  display: none;
-}
-.topmenu li:nth-child(4).on {
-  display: inline-block;
-}
-
-.topmenu li a {
+.topmenu li button {
   color: #fff;
   font-size: 1em;
   width: 100%;
@@ -109,29 +96,29 @@ nav {
   text-align: center;
   transition: all 0.8s;
   font-family: "Noto Sans KR", sans-serif;
+  background-color: transparent;
 }
 
-.topmenu li a img {
-  height: 21px;
+.topmenu li button img {
+  height: 23px;
   transition: all 0.4s;
   margin-top: 4px;
 }
-.topmenu li:hover a img {
+.topmenu li:hover button img {
   transform: scale(0.9) rotateY(360deg);
   opacity: 0.8;
 }
 
-.topmenu li a span {
+.topmenu li button span {
   display: none;
   margin-left: 8px;
 }
-.topmenu li a span.on {
+.topmenu li button span.on {
   display: inline-block;
 }
 
 /*햄버거 메뉴*/
 .btn-menu {
-  position: fixed;
   top: 2.4%;
   right: 4%;
   background: none;
@@ -153,7 +140,6 @@ nav {
   transition: all 0.4s;
 }
 
-/*탑라인 기울고 중간맞추기*/
 .btn-menu .top-line {
   transform-origin: left center;
 }
@@ -161,11 +147,9 @@ nav {
   transform: rotate(45deg) translate(4px, -5px);
   background: #fff;
 }
-/*중간라인 사라지기*/
 .btn-menu.on .middle-line {
   opacity: 0;
 }
-/*보텀라인 기울고 중간맞추기*/
 .btn-menu .bottom-line {
   transform-origin: left center;
 }
