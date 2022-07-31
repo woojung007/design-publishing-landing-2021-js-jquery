@@ -7,13 +7,14 @@
 
 ## 1. 검은사막 랜딩페이지 
 ### [코드 보러가기](https://github.com/woojung007/publishing-landing-2021/tree/master/blackdesert)
-![blackdesert](https://user-images.githubusercontent.com/99471927/182016912-a79cae67-b011-407e-bc18-bcd233159314.png)
+![index](https://user-images.githubusercontent.com/99471927/182021294-0e554ba5-a128-4ecc-95cb-00a72e7c860d.jpg)
+
 
 <br/>
 
 ## 2. 게스 랜딩페이지
 ### [코드 보러가기](https://github.com/woojung007/publishing-landing-2021/tree/master/guess)
-![guess](https://user-images.githubusercontent.com/99471927/182016923-aad0b3a1-482b-4054-bf99-47d69f61631f.png)
+![index](https://user-images.githubusercontent.com/99471927/182021313-d7866acf-ba7c-4948-9501-e798014079a8.jpg)
 
 
 <br/>
@@ -26,4 +27,4 @@
 
 ## 4. 토이스토리4 랜딩페이지
 ### [코드 보러가기](https://github.com/woojung007/publishing-landing-2021/tree/master/toystory4)
-![toystory4](https://user-images.githubusercontent.com/99471927/182016959-54e26b48-a306-45c6-8acc-181a99ad5cb8.png)
+![index](https://user-images.githubusercontent.com/99471927/182021362-fdd57dc1-6886-4df8-9b4b-1a35d9696a37.jpg)
