@@ -21,6 +21,8 @@
 
 ## 3. 타이틀리스트 랜딩페이지
 ### [코드 보러가기](https://github.com/woojung007/publishing-landing-2021/tree/master/titleist)
+<img width="1436" alt="스크린샷 2022-07-31 오후 10 19 41" src="https://user-images.githubusercontent.com/99471927/182028367-21360903-ebac-4642-92c8-16af939dec6f.png">
+
 ![titleist](https://user-images.githubusercontent.com/99471927/182016935-8ece9caf-22c6-4d32-81db-62cc41543642.png)
 
 <br/>
