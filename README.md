@@ -2,7 +2,7 @@
 
 
 
-사용한 기술 스택 : `Photoshop`, `HTML`, `CSS`, `JavaScript`, `JQuery`
+사용한 기술 스택 : `Photoshop` `HTML` `CSS` `JavaScript` `JQuery`
 <br/><br/>
 
 ## 1. 검은사막 랜딩페이지 
