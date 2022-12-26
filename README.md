@@ -1,8 +1,7 @@
 # Landing Page Design and Publishing(2021)
+- 기간 : `2021.02 ~ 2021.07`
 
-
-
-사용한 기술 스택 : `Photoshop` `HTML` `CSS` `JavaScript` `JQuery`
+- 사용한 기술 스택 : `Photoshop` `HTML` `CSS` `JavaScript` `JQuery`
 <br/><br/>
 
 ## 1. 검은사막 랜딩페이지 
